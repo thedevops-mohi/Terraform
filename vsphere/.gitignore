@@ -1,0 +1,22 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Terraform plan files
+*.tfplan
+
+# Local .terraform directories
+.terraform/
+
+# Provider dependency lock file
+.terraform.lock.hcl
+
+
+.DS_Store
